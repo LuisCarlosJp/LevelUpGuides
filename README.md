@@ -1,3 +1,3 @@
-# clone-tabnews
+# LevelUpGuides
 
 Projeto para treinar programação
