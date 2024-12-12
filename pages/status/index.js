@@ -52,7 +52,7 @@ function DatabaseStatus() {
   if (health === "Healthy") {
     statusColor = "#a6d189";
   };
-  return (<div>Database Status:<hr /> <div><span style={{color: statusColor}}>●</span> health</div></div>);
+  return (<div>Database Status:<hr /> <div><span style={{color: statusColor}}>●</span> {health}</div></div>);
 }
 
 function DatabaseVersion() {
